@@ -1,6 +1,0 @@
-# ignore these files
-*.log
-*.tmp
-.DS_Store
-.env
-node_modules/
